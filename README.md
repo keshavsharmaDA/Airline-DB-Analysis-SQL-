@@ -15,6 +15,3 @@ Explored and analyzed an airline database to derive insights on routes, passenge
 ## ✅ Key Insights
 - Identified top 5 most profitable routes
 - Recommended optimizing low-performing routes for cost efficiency
-
-## 📂 Files
-- `Airline_DB_Queries.sql` – SQL scripts
